@@ -1,15 +1,15 @@
-# Getting Started with Create React App
+**Key Features:**
+- Add Blog Posts: Users can create new blog posts with ease.
+- Edit Blog Posts: Edit and update existing blog entries in real-time.
+- Delete Blog Posts: Easily remove unwanted blog entries.
+- User-Friendly Interface: Clean and responsive UI for a better user experience.
+  
+**Technologies Used:**
+- React: For building dynamic and interactive components.
+- JavaScript: For handling the logic behind blog operations.
+- CSS: For styling and ensuring a modern look and feel.
+- Vercel: For hosting and deployment.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ![Screenshot 2024-09-08 163813](https://github.com/user-attachments/assets/307cc535-5ab6-4484-9789-18dcff683d09)
 ![Screenshot 2024-09-08 163821](https://github.com/user-attachments/assets/b44e11cc-96ca-4524-9443-8df840b57dbc)
 ![Screenshot 2024-09-08 163842](https://github.com/user-attachments/assets/dc2801eb-51c2-47a6-b537-1b1b9fd9c3df)
